@@ -1,2 +1,2 @@
 # Python_Examples
-Examples of Python
+Examples of Python problems
